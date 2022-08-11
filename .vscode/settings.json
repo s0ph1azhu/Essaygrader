@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "terminal.integrated.cwd": "C:\\Users\\zhuff\\OneDrive - The Harker School\\Documents\\HarkerDev\\Essaygrader"
+}
